@@ -35,10 +35,12 @@ No deviations anticipated from the project guidelines.
 ## Visualizations
 
 ### Arrests Heatmap
+[View the Arrests Heatmap](arrests_heatmap.html)
 - **File:** `arrests_heatmap.html`
 - **Description:** This visualization provides a heatmap representation of arrest locations across New York City, offering insights into high-density arrest areas.
 
 ### Top 10 Crime Areas
+[View the Top 10 Crime Areas Map](top_10_crime_areas.html)
 - **File:** `top_10_crime_areas.html`
 - **Description:** This file presents a detailed overview of the top 10 areas with the highest crime rates, showcasing crucial data for targeted policing strategies.
 
