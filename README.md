@@ -30,3 +30,15 @@ Inspired by "Crime Analytics in Metropolitan Areas" (Smith & Co., 2019), focusin
 
 ## 8. Potential Deviations
 No deviations anticipated from the project guidelines.
+
+
+## Visualizations
+
+### Arrests Heatmap
+- **File:** `arrests_heatmap.html`
+- **Description:** This visualization provides a heatmap representation of arrest locations across New York City, offering insights into high-density arrest areas.
+
+### Top 10 Crime Areas
+- **File:** `top_10_crime_areas.html`
+- **Description:** This file presents a detailed overview of the top 10 areas with the highest crime rates, showcasing crucial data for targeted policing strategies.
+
